@@ -1,0 +1,4 @@
+U:\MrDebache\tp Slam\Personnage\SlamCrawler\SlamCrawler\bin\Debug\SlamCrawler.exe
+U:\MrDebache\tp Slam\Personnage\SlamCrawler\SlamCrawler\bin\Debug\SlamCrawler.pdb
+U:\MrDebache\tp Slam\Personnage\SlamCrawler\SlamCrawler\obj\x86\Debug\SlamCrawler.exe
+U:\MrDebache\tp Slam\Personnage\SlamCrawler\SlamCrawler\obj\x86\Debug\SlamCrawler.pdb
